@@ -13,6 +13,15 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/TemaLab3" />
+        <option name="gradleHome" value="$USER_HOME$/Downloads/gradle-8.5" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/TemaLab3" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/tema1" />
         <option name="gradleHome" value="$USER_HOME$/Downloads/gradle-8.5" />
         <option name="modules">
