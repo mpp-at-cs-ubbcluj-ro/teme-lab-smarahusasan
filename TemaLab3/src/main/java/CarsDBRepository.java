@@ -20,6 +20,7 @@ public class CarsDBRepository implements CarRepository{
     public CarsDBRepository(Properties props) {
         logger.info("Initializing CarsDBRepository with properties: {} ",props);
         dbUtils=new JdbcUtils(props);
+        System.out.println(props);
     }
 
     @Override

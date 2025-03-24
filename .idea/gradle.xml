@@ -4,6 +4,14 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../JavaCodeExample/TemaLab4" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../JavaCodeExample/TemaLab4" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/StartGradle" />
         <option name="gradleHome" value="$USER_HOME$/Downloads/gradle-8.5" />
         <option name="modules">
@@ -20,6 +28,18 @@
             <option value="$PROJECT_DIR$/TemaLab3" />
           </set>
         </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/TemaLab4_" />
+        <option name="gradleHome" value="$USER_HOME$/Downloads/gradle-8.5" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/TemaLab4_" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="gradleHome" value="$USER_HOME$/Downloads/gradle-8.5" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/tema1" />

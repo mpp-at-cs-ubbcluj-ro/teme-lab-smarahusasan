@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="example" target="17" />
+      <module name="Tema_Lab4.main" target="17" />
+      <module name="Tema_Lab4.test" target="17" />
+      <module name="TemaLab4.main" target="17" />
+      <module name="TemaLab4.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
