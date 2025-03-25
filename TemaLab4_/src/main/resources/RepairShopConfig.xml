@@ -27,8 +27,10 @@
     </bean>
 
     <bean id="shopService" class="services.ComputerRepairServices">
-        <constructor-arg ref="requestsRepoFile"/>
-        <constructor-arg ref="formsRepoFile"/>
+        <!--<constructor-arg ref="requestsRepoFile"/>-->
+        <!--<constructor-arg ref="formsRepoFile"/>-->
+        <constructor-arg ref="requestsRepoJdbc"/>
+        <constructor-arg ref="formsRepoJdbc"/>
     </bean>
 
 
